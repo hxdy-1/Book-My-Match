@@ -1,0 +1,27 @@
+@media (max-width: 501px) {
+    .hero {
+        flex-direction: column;
+        padding: 1em;
+    }
+
+    .dscrptn {
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    .scroller {
+        width: 100%;
+    }
+
+    .txt {
+        font-size: large;
+    }
+
+    .bg-img {
+        background-size: contain;
+        width: 100%;
+    }
+}
