@@ -4,16 +4,12 @@
         padding: 1em;
     }
 
-    .dscrptn {
+    .dscrptn, .scroller {
         width: 100%;
     }
 
     h2 {
         font-size: 1.4rem;
-    }
-
-    .scroller {
-        width: 100%;
     }
 
     .txt {

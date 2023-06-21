@@ -19,7 +19,6 @@
 }
 
 html {
-    /* background-image: linear-gradient(to bottom right, rgb(38, 43, 51), rgb(117, 105, 115), rgb(198, 109, 77)); */
     background-attachment: fixed;
 }
 
@@ -40,10 +39,10 @@ button {
     background-color: rgb(211, 186, 47);
     font-size: large;
     border: none;
+    cursor: pointer;
 }
 
 .hero {
-    /* background-image: url("img/oriental-tiles.png"); */
     background-image: url("./img/WhatsApp\ Image\ 2023-06-21\ at\ 23.26.51.jpg");
     display: flex;
     justify-content: space-around;
@@ -88,7 +87,6 @@ button {
     justify-content: center;
     align-items: center;
     font-size: xx-large;
-    /* color: black; */
     font-weight: bolder;
     background-image: url("img/cricket_image.jpg");
     background-size: cover;
@@ -106,6 +104,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    gap: 2.5rem;
     padding: 1em;
 }
 
