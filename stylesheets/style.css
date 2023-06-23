@@ -23,12 +23,13 @@ html {
 }
 
 body {
-    background-image: url("img/body-bg.png");
+    background-image: url("../img/body-bg.png");
     background-size: contain;
 }
 
 header {
     text-align: center;
+    /* text-wrap: balance; */
     padding: 1rem;
 }
 
@@ -43,7 +44,7 @@ button {
 }
 
 .hero {
-    background-image: url("./img/WhatsApp\ Image\ 2023-06-21\ at\ 23.26.51.jpg");
+    background-image: url("../img/WhatsApp\ Image\ 2023-06-21\ at\ 23.26.51.jpg");
     display: flex;
     justify-content: space-around;
     padding: 5em;
@@ -88,7 +89,7 @@ button {
     align-items: center;
     font-size: xx-large;
     font-weight: bolder;
-    background-image: url("img/cricket_image.jpg");
+    background-image: url("../img/cricket_image.jpg");
     background-size: cover;
     width: 27rem;
     height: 12rem;
