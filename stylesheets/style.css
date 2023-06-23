@@ -56,7 +56,8 @@ button {
 }
 
 .para {
-    margin: 2rem 2rem 2rem 0; /*trbl*/
+    margin: 2rem 2rem 2rem 0;
+    /*trbl*/
 }
 
 .search {
@@ -114,7 +115,7 @@ img {
     height: 8rem;
 }
 
-.txt:focus { 
+.txt:focus {
     outline: none;
     border: 3px solid white;
     width: 100%;
@@ -126,7 +127,7 @@ img {
     opacity: .5;
 }
 
-.bg-img:hover + .btn button {
+.bg-img:hover+.btn button {
     visibility: visible;
 }
 
@@ -137,7 +138,7 @@ button:hover {
     color: black;
 }
 
-.btn1:hover > button{
+.btn1:hover>button {
     opacity: .8;
     visibility: visible;
 }
